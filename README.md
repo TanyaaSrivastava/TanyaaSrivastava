@@ -3,6 +3,7 @@
 
 - **A passionate Full Stack Developer,crafting projects and expanding my coding skills every day!**
 - 🌱 I’m currently diving deep into **Backend Technologies**
+- **Ask me about Javascript**
 - 📫 How to reach me **tanyasrivastava2808@gmail.com**
 
 
